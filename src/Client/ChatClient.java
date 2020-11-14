@@ -13,7 +13,7 @@ import javax.swing.table.DefaultTableModel;
 
 public class ChatClient extends javax.swing.JFrame {
  
-    //test Rizky
+    //test Rizky gans bet
     private ObjectInputStream input;
     private ObjectOutputStream output;
     private Socket socket;
