@@ -14,6 +14,7 @@ import javax.swing.table.DefaultTableModel;
 public class ChatClient extends javax.swing.JFrame {
  
     //test pull
+    //test pill
     private ObjectInputStream input;
     private ObjectOutputStream output;
     private Socket socket;
