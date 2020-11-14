@@ -12,7 +12,7 @@ import javax.swing.table.DefaultTableModel;
  
 /**
  *
- * @author Sendy Ganteng banget rizky juga faiz juga
+ * @author Sendy jelek banget rizky juga faiz juga
  */
 public class ChatClient extends javax.swing.JFrame {
 
