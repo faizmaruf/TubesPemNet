@@ -10,10 +10,15 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.table.DefaultTableModel;
  
-
+/**
+ *
+ * @author Sendy Ganteng banget rizky juga
+ */
 public class ChatClient extends javax.swing.JFrame {
  
-    
+    /**
+     * Creates new form ChatClient
+     */
     private ObjectInputStream input;
     private ObjectOutputStream output;
     private Socket socket;
