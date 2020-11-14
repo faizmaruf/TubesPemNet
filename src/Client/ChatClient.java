@@ -12,17 +12,14 @@ import javax.swing.table.DefaultTableModel;
  
 /**
  *
- * @author Sendy Ganteng banget rizky juga
+ * @author Sendy Ganteng banget rizky juga faiz juga
  */
 public class ChatClient extends javax.swing.JFrame {
- 
-<<<<<<< HEAD
+
     /**
      * Creates new form ChatClient
      */
-=======
-    //test Rizky gans bet
->>>>>>> 9d04964ee00a81c74d8f96b1d53bbfe09bb5f0d2
+
     private ObjectInputStream input;
     private ObjectOutputStream output;
     private Socket socket;
